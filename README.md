@@ -63,7 +63,7 @@ My MCS uses imported city map files and public GPS mobility traces of actual ind
 import info.pavie.basicosmparser.controller.*;
 import info.pavie.basicosmparser.model.*; 
 ```
-To then convert to csv files just run: 
+To then convert to csv files, just type in your termianl: 
 ```
 java -jar BasicOSMParser.jar /path/to/data.osm /path/to/output/folder/
 ```
