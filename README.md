@@ -74,7 +74,7 @@ With the three csv files: nodes file, ways file, and the public GPS mobility tra
 ```
 java srpGraph /path/to/nodes.csv /path/to/ways.csv /path/to/mobilityTrace.csv
 ```
-To see an example, I included existing csv files on the city of Venice in Los Angeles: nodesVenice.csv, waysVenice.csv, and tracksVeniceCombined.csv. Just type in your terminal:
+To see an example, I included existing csv files on the area of Venice in Los Angeles: nodesVenice.csv, waysVenice.csv, and tracksVeniceCombined.csv. Just type in your terminal:
 ```
 java srpGraph /path/to/mcsData/nodesVenice.csv /path/to/mcsData/waysVenice.csv /path/to/mcsData/tracksVeniceCombined.csv  
 ```
